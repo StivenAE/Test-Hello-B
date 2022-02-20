@@ -1,0 +1,14 @@
+{
+  "name": "testhellob",
+  "version": "1.0.0",
+  "description": "Prueba Hello Build",
+  "main": "Test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "StivenA",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
